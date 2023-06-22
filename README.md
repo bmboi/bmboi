@@ -12,11 +12,11 @@
   <li>Javascript</li>
   <li>Python</li>
   <li>SCSS</li>
-  <li>SASS</li>
   <li>Nodejs</li>
   <li>Vite</li>
   <li>Angular</li>
-  <li>a little bit of C</li>
+  <li>C/C#</li>
+  <li>TypeScript (better)</li>
 </ul>
 <p> i get that some of them dont count, but who cares? its my readme, not yours.
  <br>
